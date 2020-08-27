@@ -1,5 +1,5 @@
 =========
-Birdhouse
+EP3
 =========
 
 .. image:: https://img.shields.io/badge/docs-latest-brightgreen.svg
@@ -23,3 +23,4 @@ to `Web Processing Services <http://geoprocessing.info/wpsdoc/>`_ to support cli
 
 The full `documentation <http://birdhouse.readthedocs.io/en/latest/>`_
 is available on ReadTheDocs and in the `docs/` folder.
+
