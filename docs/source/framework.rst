@@ -1,7 +1,7 @@
 .. _framework:
 
 *******************
-birdhouse framework
+EP3 framework
 *******************
 
 .. contents::
